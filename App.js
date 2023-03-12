@@ -87,8 +87,9 @@ const styles = StyleSheet.create({
    margin:10,fontWeight: 'bold',
     },
     Image:{
+      
     width: 270, height: 200,justifyContent: 'center'},
-    
+
 });
    
       
